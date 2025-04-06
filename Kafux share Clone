@@ -1,22 +1,25 @@
 {
-    "credits": "@KafuHex",
-    "showDialog": true,
-    "title": "New Update Available!!",
-    "message": "New update is available, to continue in our app please update it.
- 
-- What's new 🆕:
- 
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
- 
-Thanks for using ♥️",
-    "showNegativeButton": true,
-    "negativeButtonText": "Update APK",
-    "negativeButtonUrl": "https://telegram.me/BDMOODER/52",
-    "showPositiveButton": false,
-    "positiveButtonText": "Cancel",
-    "maxShowCount": 9999,
-    "controlByShowCount": true
+  "isUpdate": true,
+  "title": "New Version Update! 🚀",
+  "version": "@Secretmodofficial",
+  "updateUrl": "https://t.me/Secretmodofficial",
+  "description": [
+    "Bug Fixes 🐞",
+    "Performance Boost ⚡",
+    "New Sleek Design 🎨",
+	"Enhanced Features 🔧",
+
+"Improved Navigation 🔄",
+
+"Faster Load Times ⏱️",
+
+"Optimized Battery Usage 🔋",
+
+"Security Enhancements 🔐",
+
+"Updated Content 📱",
+
+"UI Improvements ✨"
+
+  ]
 }
