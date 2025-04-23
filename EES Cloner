@@ -1,0 +1,22 @@
+{
+    "credits": "@KafuHex",
+    "showDialog": true,
+    "title": "New Update Available!!",
+    "message": "New update is available, to continue in our app please update it.
+ 
+- What's new 🆕:
+ 
+- Performance Improvements.
+- Bug Fixes.
+- New Features introduced.
+- Others minor changes.
+ 
+Thanks for using ♥️",
+    "showNegativeButton": true,
+    "negativeButtonText": "Update APK",
+    "negativeButtonUrl": "https://telegram.me/BDMOODER/52",
+    "showPositiveButton": false,
+    "positiveButtonText": "Cancel",
+    "maxShowCount": 9999,
+    "controlByShowCount": true
+}
